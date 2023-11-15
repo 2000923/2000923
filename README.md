@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 💻 I’m an student at [UNMSM](https://unmsm.edu.pe/)-LIMA-Peru</br> </br>
-👨‍💼 Currently, I create programs that can transform remote locations in Peru, providing health services and internet access for education. I have been working with people in low-income areas, such as the town of Jachaña in Puno, Peru. </br> </br>    
+👨‍💼 Currently, I create programs that can transform remote locations in Peru, providing health services and internet access for education. I have been working with people in low-income areas. </br> </br>    
 <br/>
 <hr />
 
