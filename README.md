@@ -1,17 +1,5 @@
 ### Hi there 👋
 ### I'm Enrique. Welcome to my Github site. 🌱
-
-<hr />
-
-### 📫 How to contact me:
-<a href="https://www.linkedin.com/in/edwin-enrique-flores-bautista/">Find me on LinkedIn<img align="left" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank" />
-</a>
-<br /><br />
-<a href="mailto:2000923@unmsm.edu.pe">Send me an e-mail
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gmail.svg" />
-</a>
-<br/>
-
 ### 🚀 About Me
 💻 I’m an student at [UNMSM](https://unmsm.edu.pe/)-LIMA-Peru</br> </br>
 👨‍💼 Currently, I create programs that can transform remote locations in Peru, providing health services and internet access for education. I have been working with people in low-income areas. </br> </br>    
