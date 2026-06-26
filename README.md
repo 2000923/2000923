@@ -135,7 +135,7 @@ Former president of the **San Marcux Free Software Community at UNMSM** and FLIS
     <img src="https://img.shields.io/badge/GitHub-2000923-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="ADD-YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/eefloresb/">
     <img src="https://img.shields.io/badge/LinkedIn-Enrique_Flores-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
